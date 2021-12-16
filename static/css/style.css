@@ -1,0 +1,18 @@
+h1 {
+    border: 2px #eee solid;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
+
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.tabcontent {
+   color: white;
+   display: none;
+   padding: 100px 20px;
+   height: 100%;
+}
